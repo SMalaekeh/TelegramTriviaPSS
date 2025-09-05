@@ -12,8 +12,8 @@ This bot runs an interactive multiple-choice quiz with **19 themed questions**, 
 - 🔒 Admin-only commands for reset and results
 
 # Slides
-Slides in Canvas https://www.canva.com/design/DAGhpcv8F3U/iSYtm2E3_ZvZ4-ahGhRoaw/edit?utm_content=DAGhpcv8F3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+Check out the slides for this project here:  
+👉 [PSS Trivia Bot – Canva Presentation](https://www.canva.com/design/DAGhpcv8F3U/iSYtm2E3_ZvZ4-ahGhRoaw/edit?utm_content=DAGhpcv8F3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img width="1579" height="890" alt="image" src="https://github.com/user-attachments/assets/ea77684d-1a61-4bdb-9283-145220370d37" />
 
 
